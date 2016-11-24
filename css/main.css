@@ -137,7 +137,6 @@ img {
 
 }
 
-
 @media only screen and (min-width: 90em) {
 
   html {
@@ -151,7 +150,7 @@ img {
     max-width: 32%;
   }
 
-  .card-img  {
+  .card-img {
     margin: 0;
   }
 
